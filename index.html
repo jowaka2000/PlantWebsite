@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Plant's Website</title>
+    <link rel="stylesheet" type="text/css" href="app.css">
+</head>
+<body>
+
+    <!-- Heading -->
+    <h1>Plant Website</h1>
+    
+    <!-- Search menu -->
+    <div class="menu">
+        <label for="zone-select">Zone:</label>
+        <select id="zone-select">
+            <option value="">All</option>
+            <option value="9">Zone 9</option>
+            <option value="5">Zone 5</option>
+        </select>
+        
+        <label for="light-select">Light:</label>
+        <select id="light-select">
+            <option value="">All</option>
+            <option value="Mostly Shady">Mostly Shady</option>
+        </select>
+        
+        <button id="sort-button">Sort by Name and Price</button>
+    </div>
+    
+    <!-- Main body -->
+    <div id="plants-container"></div>
+    
+    <!-- Load script -->
+    <script src="script.js"></script>
+</body>
+</html>

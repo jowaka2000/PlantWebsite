@@ -1,0 +1,22 @@
+<PLANT>
+<PLANT>
+    <COMMON>African Daisy</COMMON>
+    <BOTANICAL>Gerbera</BOTANICAL>
+    <ZONE>9</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$20</PRICE>
+    <AVAILABILITY>031599</AVAILABILITY>
+    <IMAGE>https://www.allaboutgardening.com/wp-content/uploads/2021/11/African-Daisy.jpg</IMAGE>
+</PLANT>
+
+<PLANT>
+    <COMMON>Alpenrose</COMMON>
+    <BOTANICAL>Rhododendron ferrugineum</BOTANICAL>
+    <ZONE>5</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$40</PRICE>
+    <AVAILABILITY>4830948</AVAILABILITY>
+    <IMAGE>https://www.allaboutgardening.com/wp-content/uploads/2021/11/Alpenrose.jpg</IMAGE>
+</PLANT>
+
+</PLANT>
